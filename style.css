@@ -10,7 +10,11 @@ div {
   width: 700px;
   margin: auto;
   font-family: Helvetica Neue;
+<<<<<<< HEAD
   background: white;
+=======
+  background: Whit;
+>>>>>>> 1e9323187a870123bda3e1226cc013a7607f00a0
   padding: 30px;
 }
 
